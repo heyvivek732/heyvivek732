@@ -1,15 +1,15 @@
 <!-- 
 Hope you ❤️ the repo. Don't forget to follow. 
 -->
-<img align="right" alt="coding" width="100" src="https://media.tenor.com/TTqJEOE7gAsAAAAC/welcome-emoji.gif">
+<img align="right" alt="coding" width="80" src="https://media.tenor.com/TTqJEOE7gAsAAAAC/welcome-emoji.gif">
 ### Hii , I'M VIVEK SINGH 👋
 
 ---
 
-<p align="center">
+<!--<p align="center">
   <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Github Banner.svg" width="100%" title="Intro Card" alt="Intro Card">
-</p>
-<img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+</p>-->
+<img align="right" alt="coding" width="200" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 I am  19 years old a 👨‍💻 **`Passionate Mern Stack Developer`**,also exploring ☁️ Cloud
 
 🤓 I have a keen interest in 🤝 collaborating and building digital solutions that solve real-world 🌍 problems. I'm also a **`Design Thinking facilitator`** and a **`Creative Technologist`** who believes that the merger between Design Thinking and Digital Technologies will lead to the building of user-centered solutions that are impactful toward the betterment of society.
@@ -39,7 +39,7 @@ I am  19 years old a 👨‍💻 **`Passionate Mern Stack Developer`**,also expl
 [![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=heyvivek732)](https://github.com/heyvivek732)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=heyvivek732&show_icons=true&hide_border=true)](https://github.com/heyvivek732)
-<img align="right" alt="coding" width="300" src="https://cdn.pixabay.com/animation/2022/09/27/12/02/12-02-19-627_512.gif">
+<img align="right" alt="coding" width="100" src="https://cdn.pixabay.com/animation/2022/09/27/12/02/12-02-19-627_512.gif">
 ---
 
 
