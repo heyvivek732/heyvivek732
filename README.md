@@ -39,7 +39,6 @@ I am  19 years old a 👨‍💻 **`Passionate Mern Stack Developer`**,also expl
 [![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=heyvivek732)](https://github.com/heyvivek732)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=heyvivek732&show_icons=true&hide_border=true)](https://github.com/heyvivek732)
-<img align="right" alt="coding" width="100" src="https://cdn.pixabay.com/animation/2022/09/27/12/02/12-02-19-627_512.gif">
 ---
 
 
